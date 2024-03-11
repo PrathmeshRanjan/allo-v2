@@ -8,18 +8,22 @@
 
 | Network         | Chain ID |
 | --------------- | -------- |
-| Mainnet         | 1        |
-| Goerli          | 5        |
-| Sepolia         | 11155111 |
-| Base            | 8453     |
-| Base Goerli     | 84531    |
-| Optimism        | 10       |
-| Optimism Goerli | 420      |
-| Celo            | 42220    |
-| Celo Alfajores  | 44787    |
-| Arbitrum        | 42161    |
-| Arbitrum Sepolia| 421614   |
-
+| ![](https://img.shields.io/badge/Mainnet-black) | 1        | 
+| ![](https://img.shields.io/badge/Sepolia-pink)  | 11155111 |
+| ![](https://img.shields.io/badge/Base-blue) | 8453     |
+| ![](https://img.shields.io/badge/BaseSepolia-blue) | 84531    |
+| ![](https://img.shields.io/badge/Optimism-red) | 10       |
+| ![](https://img.shields.io/badge/OptimismSepolia-red) | 420 |
+| ![](https://img.shields.io/badge/Celo-yellow) | 42220    |
+| ![](https://img.shields.io/badge/CeloAlphajores-yellow) | 44787    |
+| ![](https://img.shields.io/badge/Arbitrum-lightblue) | 42161    |
+| ![](https://img.shields.io/badge/ArbitrumSepolia-lightblue) | 421614   |
+| ![](https://img.shields.io/badge/Mumbai-purple) | 80001    |
+| ![](https://img.shields.io/badge/Polygon-purple) | 800011   |
+| ![](https://img.shields.io/badge/Scroll-yellowgreen) | 534352 |
+| ![](https://img.shields.io/badge/ScrollSepolia-yellowgreen) | 534351 |
+| ![](https://img.shields.io/badge/Avalanche-red) | 43114    |
+| ![](https://img.shields.io/badge/AvalancheFuji-red) | 43113    |
 
 
 ## Deployed Contracts
