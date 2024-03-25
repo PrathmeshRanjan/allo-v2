@@ -291,9 +291,9 @@ const config: HardhatUserConfig = {
       // @ts-ignore
       "filecoin-calibration": process.env.FILECOIN_CALIBRATION_ETHERSCAN_API_KEY,
       // @ts-ignore
-      fuji: "NA",
+      fuji: process.env.SNOWSCAN_API_KEY,
       // @ts-ignore
-      avalanche: "NA",
+      avalanche: process.env.SNOWSCAN_API_KEY,
       // @ts-ignore
       scroll: process.env.SCROLLSCAN_API_KEY!,
     },
@@ -303,8 +303,8 @@ const config: HardhatUserConfig = {
         chainId: chainIds["fuji"],
         urls: {
           apiURL:
-            "https://api.avascan.info/v2/network/testnet/evm/43113/etherscan",
-          browserURL: "https://testnet.avascan.info/blockchain/c",
+            "https://api.snowscan.xyz/api",
+          browserURL: "https://snowscan.xyz",
         },
       },
       {
